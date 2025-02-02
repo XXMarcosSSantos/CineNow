@@ -1,8 +1,6 @@
-package com.devspacecinenow
+package com.devspacecinenow.common.model
 
 import com.google.gson.annotations.SerializedName
-import kotlinx.serialization.SerialName
-import kotlinx.serialization.Serializable
 
 @kotlinx.serialization.Serializable
 data class MovieDto(
